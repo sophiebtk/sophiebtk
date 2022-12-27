@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @sophiebtk
-- 👀 I’m interested in (behavioral) economics & data analysis
-- 🌱 I’m currently studying econometrics
-
-
 <!-- Begin First Section: About Me-->
 <h1> Sophie Buttke</h1>
 <!-- Add a Gif-->
 
 <p align: "center">
-    write something about myself
-
+ - 👋 Hi, I’m @sophiebtk
+- 👀 I’m interested in (behavioral) economics & data analysis
+- 🌱 I’m currently studying econometrics
+ 
 <br>
 <br>
 <div align="center">
