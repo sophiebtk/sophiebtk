@@ -88,7 +88,7 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner]()
+<!--![stats_banner]() -->
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -97,12 +97,12 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiebtk&show_icons=true&theme=vue)
+![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiebtk&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sophiebtk&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiebtk&theme=radical)](https://github.com/sophiebtk/github-readme-stats)
-</div>
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiebtk&theme=radical)](https://github.com/sophiebtk/github-readme-stats)
+</div> -->
 <!--  End Stats Cards -->
 
 ---
